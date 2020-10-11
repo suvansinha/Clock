@@ -1,3 +1,3 @@
-# Clock
-a simple clock using tkinter              
-Download font : https://bit.ly//pythonprojects
+# Date and time
+information of the day            
+Download font for clock : https://bit.ly//pythonprojects
